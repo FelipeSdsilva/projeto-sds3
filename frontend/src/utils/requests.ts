@@ -1,1 +1,1 @@
-export const BASE_URL = process.env.REACT_APP_BACKEND_URL ?? `http://localhost:8080`;
+export const BASE_URL = 'https://projeto-sds3-production-4b18.up.railway.app' ?? `http://localhost:8080`;
