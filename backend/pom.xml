@@ -14,7 +14,7 @@
 	<name>dsvendas</name>
 	<description>Projeto desenvolvido na semana Spring react da Devsuperior</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
